@@ -1,4 +1,7 @@
-**Project Title: MERN Stack Note-Keeping App**
+**Project Title: MERN Stack Notes Server App**
+
+**Tech-Stack Overview: Express.js, React.js, Node.js, MongoDB.
+**Authentication Overview: JWT, Bycrypt(For hashing and Salting).
 
 **About:**
 
